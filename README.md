@@ -4,8 +4,7 @@
 This repository showcases an automated web scraper developed to extract Python job listings, demonstrating the setup of a complete data pipeline on Google Cloud Platform (GCP).
 
 ## Project Architecture
-![Project Architecture](<img width="865" alt="Screenshot 2024-05-05 at 3 43 24 PM" src="https://github.com/michailchionidis/gcp-web-scraper/assets/104796421/25aeae3b-5631-4605-b8c9-c170b7ca1b97">
-)
+![Project Architecture](https://github.com/michailchionidis/gcp-web-scraper/assets/104796421/25aeae3b-5631-4605-b8c9-c170b7ca1b97)
 
 ## Skills Demonstrated
 - **Web Scraping**: Uses Selenium for automated extraction of job listing data.
