@@ -40,15 +40,15 @@ This repository showcases an automated web scraper developed to extract Python j
    ```
 
 3. **Test the main.py locally to ensure the scraper functions correctly.**
--  Run app.py using Flask locally to validate the web service.
--  Deploy on Google Cloud Run
+--  Run app.py using Flask locally to validate the web service.
+--  Deploy on Google Cloud Run
 
 4. **Deploy on Google Cloud.**
-- Deploy the containerized Flask application on Cloud Run.
-- Set up Cloud Scheduler to automate the scraping process.
+-- Deploy the containerized Flask application on Cloud Run.
+-- Set up Cloud Scheduler to automate the scraping process.
 
 ### Running the Project
-- Ensure all settings in settings.py are correctly configured, deploy the scraper to Google Cloud Run, and manage the scraping schedule with Cloud Scheduler.
+-- Ensure all settings in settings.py are correctly configured, deploy the scraper to Google Cloud Run, and manage the scraping schedule with Cloud Scheduler.
 
 Contributions to this project are welcome! Please fork this repository and submit a pull request with your proposed changes.
 
