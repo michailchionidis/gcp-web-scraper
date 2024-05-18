@@ -4,7 +4,8 @@
 This repository showcases an automated web scraper developed to extract Python job listings, demonstrating the setup of a complete data pipeline on Google Cloud Platform (GCP).
 
 ## Project Architecture
-![Project Architecture](https://github.com/yourusername/python-job-scraper/assets/project_architecture.png)
+![Project Architecture](<img width="865" alt="Screenshot 2024-05-05 at 3 43 24 PM" src="https://github.com/michailchionidis/gcp-web-scraper/assets/104796421/25aeae3b-5631-4605-b8c9-c170b7ca1b97">
+)
 
 ## Skills Demonstrated
 - **Web Scraping**: Uses Selenium for automated extraction of job listing data.
@@ -40,15 +41,15 @@ This repository showcases an automated web scraper developed to extract Python j
    ```
 
 3. **Test the main.py locally to ensure the scraper functions correctly.**
---  Run app.py using Flask locally to validate the web service.
---  Deploy on Google Cloud Run
+   -  Run app.py using Flask locally to validate the web service.
+   -  Deploy on Google Cloud Run
 
 4. **Deploy on Google Cloud.**
--- Deploy the containerized Flask application on Cloud Run.
--- Set up Cloud Scheduler to automate the scraping process.
+   - Deploy the containerized Flask application on Cloud Run.
+   - Set up Cloud Scheduler to automate the scraping process.
 
 ### Running the Project
--- Ensure all settings in settings.py are correctly configured, deploy the scraper to Google Cloud Run, and manage the scraping schedule with Cloud Scheduler.
+   - Ensure all settings in settings.py are correctly configured, deploy the scraper to Google Cloud Run, and manage the scraping schedule with Cloud Scheduler.
 
 Contributions to this project are welcome! Please fork this repository and submit a pull request with your proposed changes.
 
