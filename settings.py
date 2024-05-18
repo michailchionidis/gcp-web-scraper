@@ -5,7 +5,7 @@
 GOOGLE_APPLICATION_CREDENTIALS = ""
 
 # Google Cloud Project Configuration
-BIGQUERY_PROJECT_ID = "w"
+BIGQUERY_PROJECT_ID = ""
 BIGQUERY_DATASET_ID = ""
 BIGQUERY_TABLE_NAME = ""
 BIGQUERY_LOCATION = ""  # e.g., "europe-west8"
