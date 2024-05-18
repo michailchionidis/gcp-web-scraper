@@ -10,11 +10,10 @@ This repository showcases an automated web scraper developed to extract Python j
 - **Web Scraping**: Uses Selenium for automated extraction of job listing data.
 - **Cloud Automation**: Implements Cloud Run and Cloud Scheduler for deploying and scheduling the scraper.
 - **Data Management**: Utilizes BigQuery for efficient data storage and management.
-- **Data Visualization**: Employs Looker Studio for creating insightful visual dashboards.
 
 ## Technologies Used
 - Python, Selenium
-- Google Cloud Platform: Cloud Run, Cloud Scheduler, BigQuery, Looker Studio
+- Google Cloud Platform: Cloud Run, Cloud Scheduler, BigQuery
 
 ## Project Files
 - `main.py`: Main script for scraping job listings.
